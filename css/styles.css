@@ -2,6 +2,20 @@ body{
 	font-size: 16px;	
   font-family: 'Exo 2', sans-serif;
 }
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 2px solid #000 !important;
 }
