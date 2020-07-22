@@ -105,7 +105,7 @@ section {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid gray ; <!-- #61122f; -->
+  border: 1px solid black ; <!-- #61122f; -->
 }
 .navbar-header button.navbar-toggle {
   clear: both;
