@@ -113,11 +113,11 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: gray;
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: black;
   font-size: 1.5em;
 }
 
